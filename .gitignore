@@ -27,6 +27,7 @@ go.work
 # But not these files...
 !/.gitignore
 !/AutoUpdateBinary
+!/encrypted_shasum.txt
 
 !*.go
 !go.sum
